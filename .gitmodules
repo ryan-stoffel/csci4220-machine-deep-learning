@@ -1,0 +1,3 @@
+[submodule "projects/formula-fly"]
+	path = projects/formula-fly
+	url = git@github.com:cbu-machine-and-deep-learning-26/formula-fly.git
